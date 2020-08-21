@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/violeta/static/css/main.5f361e03.chunk.css",
+    "main.js": "/violeta/static/js/main.d6db2025.chunk.js",
+    "main.js.map": "/violeta/static/js/main.d6db2025.chunk.js.map",
+    "runtime-main.js": "/violeta/static/js/runtime-main.df3a503b.js",
+    "runtime-main.js.map": "/violeta/static/js/runtime-main.df3a503b.js.map",
+    "static/js/2.ed50c386.chunk.js": "/violeta/static/js/2.ed50c386.chunk.js",
+    "static/js/2.ed50c386.chunk.js.map": "/violeta/static/js/2.ed50c386.chunk.js.map",
+    "index.html": "/violeta/index.html",
+    "precache-manifest.3e85db9850794ab58e5f6f0d5cae86cf.js": "/violeta/precache-manifest.3e85db9850794ab58e5f6f0d5cae86cf.js",
+    "service-worker.js": "/violeta/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/violeta/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ed50c386.chunk.js.LICENSE.txt": "/violeta/static/js/2.ed50c386.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/violeta/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df3a503b.js",
+    "static/js/2.ed50c386.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d6db2025.chunk.js"
+  ]
+}
