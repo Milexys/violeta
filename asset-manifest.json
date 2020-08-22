@@ -1,23 +1,29 @@
 {
   "files": {
     "main.css": "/violeta/static/css/main.5f361e03.chunk.css",
-    "main.js": "/violeta/static/js/main.d6db2025.chunk.js",
-    "main.js.map": "/violeta/static/js/main.d6db2025.chunk.js.map",
+    "main.js": "/violeta/static/js/main.373fc492.chunk.js",
+    "main.js.map": "/violeta/static/js/main.373fc492.chunk.js.map",
     "runtime-main.js": "/violeta/static/js/runtime-main.df3a503b.js",
     "runtime-main.js.map": "/violeta/static/js/runtime-main.df3a503b.js.map",
-    "static/js/2.ed50c386.chunk.js": "/violeta/static/js/2.ed50c386.chunk.js",
-    "static/js/2.ed50c386.chunk.js.map": "/violeta/static/js/2.ed50c386.chunk.js.map",
+    "static/js/2.009d8c8d.chunk.js": "/violeta/static/js/2.009d8c8d.chunk.js",
+    "static/js/2.009d8c8d.chunk.js.map": "/violeta/static/js/2.009d8c8d.chunk.js.map",
     "index.html": "/violeta/index.html",
-    "precache-manifest.3e85db9850794ab58e5f6f0d5cae86cf.js": "/violeta/precache-manifest.3e85db9850794ab58e5f6f0d5cae86cf.js",
+    "precache-manifest.637b7299116ab6d01b3a31a8b7e7cb6e.js": "/violeta/precache-manifest.637b7299116ab6d01b3a31a8b7e7cb6e.js",
     "service-worker.js": "/violeta/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/violeta/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ed50c386.chunk.js.LICENSE.txt": "/violeta/static/js/2.ed50c386.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/violeta/static/media/logo.5d5d9eef.svg"
+    "static/js/2.009d8c8d.chunk.js.LICENSE.txt": "/violeta/static/js/2.009d8c8d.chunk.js.LICENSE.txt",
+    "static/media/figma.png": "/violeta/static/media/figma.a2fd2c17.png",
+    "static/media/karenQ.jpg": "/violeta/static/media/karenQ.a620ac60.jpg",
+    "static/media/karenR.jpg": "/violeta/static/media/karenR.22266371.jpg",
+    "static/media/milexys.jpg": "/violeta/static/media/milexys.3331ac2a.jpg",
+    "static/media/mobile.jpeg": "/violeta/static/media/mobile.5c513853.jpeg",
+    "static/media/presentacion.jpeg": "/violeta/static/media/presentacion.f9c4db82.jpeg",
+    "static/media/sara.jpg": "/violeta/static/media/sara.efe04546.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.df3a503b.js",
-    "static/js/2.ed50c386.chunk.js",
+    "static/js/2.009d8c8d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d6db2025.chunk.js"
+    "static/js/main.373fc492.chunk.js"
   ]
 }
